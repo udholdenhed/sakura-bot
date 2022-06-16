@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  bot:
+    container_name: 'bot'
+    restart: always
+    build: .
+    ports:
+      - '8443:8090'
+    links:
+      - redis
+
+  redis:
+    image: 'redis:6-alpine'
+    container_name: 'redis'
+    ports:
+      # If you change the external port you also need to change it to config.py.
+      - '6379:6379' # Port 6379(second) of the redis database is open to the outside world on port 6379(first).
+    restart: always

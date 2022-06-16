@@ -1,0 +1,4403 @@
+[
+  {
+    "city": "Abazivka"
+  },
+  {
+    "city": "Abrykosivka"
+  },
+  {
+    "city": "Adamivka"
+  },
+  {
+    "city": "Aeroflotskyi"
+  },
+  {
+    "city": "Ahrarne"
+  },
+  {
+    "city": "Alchevsk"
+  },
+  {
+    "city": "Almazna"
+  },
+  {
+    "city": "Alushta"
+  },
+  {
+    "city": "Amvrosiivka"
+  },
+  {
+    "city": "Ananiv"
+  },
+  {
+    "city": "Andriievo-Ivanivka"
+  },
+  {
+    "city": "Andriivka"
+  },
+  {
+    "city": "Andriivka"
+  },
+  {
+    "city": "Andriivka"
+  },
+  {
+    "city": "Andrushivka"
+  },
+  {
+    "city": "Andrushivka"
+  },
+  {
+    "city": "Andrushky"
+  },
+  {
+    "city": "Antonivka"
+  },
+  {
+    "city": "Antratsyt"
+  },
+  {
+    "city": "Anysiv"
+  },
+  {
+    "city": "Apostolove"
+  },
+  {
+    "city": "Arbuzynka"
+  },
+  {
+    "city": "Arkhanhelska Sloboda"
+  },
+  {
+    "city": "Artemivsk"
+  },
+  {
+    "city": "Artsyz"
+  },
+  {
+    "city": "Askaniia-Nova"
+  },
+  {
+    "city": "Auly"
+  },
+  {
+    "city": "Avdiivka"
+  },
+  {
+    "city": "Aviatorske"
+  },
+  {
+    "city": "Babche"
+  },
+  {
+    "city": "Babyn"
+  },
+  {
+    "city": "Babyn"
+  },
+  {
+    "city": "Babyntsi"
+  },
+  {
+    "city": "Baibuzy"
+  },
+  {
+    "city": "Bairachky"
+  },
+  {
+    "city": "Bakhchysarai"
+  },
+  {
+    "city": "Bakhmut"
+  },
+  {
+    "city": "Balabyne"
+  },
+  {
+    "city": "Balakliia"
+  },
+  {
+    "city": "Balta"
+  },
+  {
+    "city": "Bandurove"
+  },
+  {
+    "city": "Bar"
+  },
+  {
+    "city": "Baranivka"
+  },
+  {
+    "city": "Baranykivka"
+  },
+  {
+    "city": "Barashi"
+  },
+  {
+    "city": "Barashivka"
+  },
+  {
+    "city": "Barturyn"
+  },
+  {
+    "city": "Barvynkove"
+  },
+  {
+    "city": "Baryshivka"
+  },
+  {
+    "city": "Bashmachka"
+  },
+  {
+    "city": "Bashtanka"
+  },
+  {
+    "city": "Basyuvka"
+  },
+  {
+    "city": "Batovo"
+  },
+  {
+    "city": "Baykovtsy"
+  },
+  {
+    "city": "Bazaliia"
+  },
+  {
+    "city": "Beleluia"
+  },
+  {
+    "city": "Belobozhnitsa"
+  },
+  {
+    "city": "Belogorodka"
+  },
+  {
+    "city": "Belz"
+  },
+  {
+    "city": "Bendzary"
+  },
+  {
+    "city": "Bene"
+  },
+  {
+    "city": "Berdiansk"
+  },
+  {
+    "city": "Berdychiv"
+  },
+  {
+    "city": "Berehove"
+  },
+  {
+    "city": "Berestechko"
+  },
+  {
+    "city": "Berezan"
+  },
+  {
+    "city": "Berezanka"
+  },
+  {
+    "city": "Berezhany"
+  },
+  {
+    "city": "Berezhany"
+  },
+  {
+    "city": "Berezhynka"
+  },
+  {
+    "city": "Berezivka"
+  },
+  {
+    "city": "Bereznehuvate"
+  },
+  {
+    "city": "Berezova Rudka"
+  },
+  {
+    "city": "Berezovo"
+  },
+  {
+    "city": "Berezyna"
+  },
+  {
+    "city": "Bernove"
+  },
+  {
+    "city": "Bershad"
+  },
+  {
+    "city": "Beryslav"
+  },
+  {
+    "city": "Bezborodky"
+  },
+  {
+    "city": "Bezliudivka"
+  },
+  {
+    "city": "Bibrka"
+  },
+  {
+    "city": "Bila Tserkva"
+  },
+  {
+    "city": "Bila Tserkva"
+  },
+  {
+    "city": "Bilche"
+  },
+  {
+    "city": "Bile"
+  },
+  {
+    "city": "Bilenke"
+  },
+  {
+    "city": "Bilenke"
+  },
+  {
+    "city": "Bilhorod-Dnistrovskyi"
+  },
+  {
+    "city": "Biliaivka"
+  },
+  {
+    "city": "Bilkivtsi"
+  },
+  {
+    "city": "Bilmak"
+  },
+  {
+    "city": "Biloberizka"
+  },
+  {
+    "city": "Bilohirsk"
+  },
+  {
+    "city": "Bilohorodka"
+  },
+  {
+    "city": "Bilokorovychi"
+  },
+  {
+    "city": "Bilokrynnytsia"
+  },
+  {
+    "city": "Bilokurakyne"
+  },
+  {
+    "city": "Bilopillya"
+  },
+  {
+    "city": "Bilousivka"
+  },
+  {
+    "city": "Bilovodsk"
+  },
+  {
+    "city": "Bilozerka"
+  },
+  {
+    "city": "Bilozirka"
+  },
+  {
+    "city": "Bilshivtsi"
+  },
+  {
+    "city": "Bilyne"
+  },
+  {
+    "city": "Birky"
+  },
+  {
+    "city": "Birky"
+  },
+  {
+    "city": "Blahodatne"
+  },
+  {
+    "city": "Blahovishchenske"
+  },
+  {
+    "city": "Blystavytsya"
+  },
+  {
+    "city": "Blyzhnie"
+  },
+  {
+    "city": "Bobrivnyk"
+  },
+  {
+    "city": "Bobrovytsia"
+  },
+  {
+    "city": "Bobrynets"
+  },
+  {
+    "city": "Bochanytsya"
+  },
+  {
+    "city": "Bochechky"
+  },
+  {
+    "city": "Bodaki"
+  },
+  {
+    "city": "Bodakva"
+  },
+  {
+    "city": "Bohdanivka"
+  },
+  {
+    "city": "Bohdanivka"
+  },
+  {
+    "city": "Bohdanivka"
+  },
+  {
+    "city": "Bohodukhiv"
+  },
+  {
+    "city": "Bohorodchany"
+  },
+  {
+    "city": "Bohuslav"
+  },
+  {
+    "city": "Bohuslav"
+  },
+  {
+    "city": "Bohynivka"
+  },
+  {
+    "city": "Boikivske"
+  },
+  {
+    "city": "Bokhonyky"
+  },
+  {
+    "city": "Bolekhiv"
+  },
+  {
+    "city": "Bolhrad"
+  },
+  {
+    "city": "Borisov"
+  },
+  {
+    "city": "Borivtsi"
+  },
+  {
+    "city": "Borki"
+  },
+  {
+    "city": "Borodyanka"
+  },
+  {
+    "city": "Borokhiv"
+  },
+  {
+    "city": "Boromlya"
+  },
+  {
+    "city": "Borova"
+  },
+  {
+    "city": "Borovytsia"
+  },
+  {
+    "city": "Borozenske"
+  },
+  {
+    "city": "Borshchivka"
+  },
+  {
+    "city": "Borynia"
+  },
+  {
+    "city": "Boryslav"
+  },
+  {
+    "city": "Boryspil"
+  },
+  {
+    "city": "Borzhava"
+  },
+  {
+    "city": "Borzna"
+  },
+  {
+    "city": "Boyarka"
+  },
+  {
+    "city": "Bozhkivske"
+  },
+  {
+    "city": "Brailiv"
+  },
+  {
+    "city": "Bratske"
+  },
+  {
+    "city": "Bratslav"
+  },
+  {
+    "city": "Brianka"
+  },
+  {
+    "city": "Brody"
+  },
+  {
+    "city": "Brody"
+  },
+  {
+    "city": "Broshniv-Osada"
+  },
+  {
+    "city": "Brovary"
+  },
+  {
+    "city": "Brusyliv"
+  },
+  {
+    "city": "Brylivka"
+  },
+  {
+    "city": "Bryukhovychi"
+  },
+  {
+    "city": "Bucha"
+  },
+  {
+    "city": "Buchach"
+  },
+  {
+    "city": "Budy"
+  },
+  {
+    "city": "Buhas"
+  },
+  {
+    "city": "Bukachivtsi"
+  },
+  {
+    "city": "Bulakhivka"
+  },
+  {
+    "city": "Burshtyn"
+  },
+  {
+    "city": "Bushtyno"
+  },
+  {
+    "city": "Busk"
+  },
+  {
+    "city": "Buzovytsia"
+  },
+  {
+    "city": "Buzynove"
+  },
+  {
+    "city": "Bykivka"
+  },
+  {
+    "city": "Byrlivka"
+  },
+  {
+    "city": "Bystryk"
+  },
+  {
+    "city": "Bytkiv"
+  },
+  {
+    "city": "Chabany"
+  },
+  {
+    "city": "Chaplyne"
+  },
+  {
+    "city": "Chaplynka"
+  },
+  {
+    "city": "Chaplynka"
+  },
+  {
+    "city": "Chechelnyk"
+  },
+  {
+    "city": "Chemer"
+  },
+  {
+    "city": "Chemerivtsi"
+  },
+  {
+    "city": "Cherepashyntsi"
+  },
+  {
+    "city": "Cherkaske"
+  },
+  {
+    "city": "Cherkasy"
+  },
+  {
+    "city": "Chernechchyna"
+  },
+  {
+    "city": "Chernelytsya"
+  },
+  {
+    "city": "Chernihiv"
+  },
+  {
+    "city": "Chernihivka"
+  },
+  {
+    "city": "Chernivtsi"
+  },
+  {
+    "city": "Chernivtsi"
+  },
+  {
+    "city": "Chernyatin"
+  },
+  {
+    "city": "Chervone"
+  },
+  {
+    "city": "Chervone"
+  },
+  {
+    "city": "Chervonohrad"
+  },
+  {
+    "city": "Chervonohryhorivka"
+  },
+  {
+    "city": "Chervonyy Oskil"
+  },
+  {
+    "city": "Chkalove"
+  },
+  {
+    "city": "Chkalove"
+  },
+  {
+    "city": "Chop"
+  },
+  {
+    "city": "Chopovychi"
+  },
+  {
+    "city": "Chornivka"
+  },
+  {
+    "city": "Chornoholova"
+  },
+  {
+    "city": "Chornomorsk"
+  },
+  {
+    "city": "Chornomorske"
+  },
+  {
+    "city": "Chornotysiv"
+  },
+  {
+    "city": "Chornukhy"
+  },
+  {
+    "city": "Chornyy Potik"
+  },
+  {
+    "city": "Chortkiv"
+  },
+  {
+    "city": "Chortomlyk"
+  },
+  {
+    "city": "Chudniv"
+  },
+  {
+    "city": "Chuhuiv"
+  },
+  {
+    "city": "Chukaluvka"
+  },
+  {
+    "city": "Chumaky"
+  },
+  {
+    "city": "Chyhyryn"
+  },
+  {
+    "city": "Chynadiyovo"
+  },
+  {
+    "city": "Chyshky"
+  },
+  {
+    "city": "Dashiv"
+  },
+  {
+    "city": "Delen"
+  },
+  {
+    "city": "Deleva"
+  },
+  {
+    "city": "Deliatyn"
+  },
+  {
+    "city": "Demuryne"
+  },
+  {
+    "city": "Denyshi"
+  },
+  {
+    "city": "Derno"
+  },
+  {
+    "city": "Dertsen"
+  },
+  {
+    "city": "Dihtiari"
+  },
+  {
+    "city": "Dmukhailivka"
+  },
+  {
+    "city": "Dmytrivka"
+  },
+  {
+    "city": "Dmytrivka"
+  },
+  {
+    "city": "Dnipro"
+  },
+  {
+    "city": "Dniprorudne"
+  },
+  {
+    "city": "Dniprovske"
+  },
+  {
+    "city": "Dnistrivka"
+  },
+  {
+    "city": "Dobra"
+  },
+  {
+    "city": "Dobrik"
+  },
+  {
+    "city": "Dobromyl"
+  },
+  {
+    "city": "Dobroslav"
+  },
+  {
+    "city": "Dobrotvir"
+  },
+  {
+    "city": "Dobrovelychkivka"
+  },
+  {
+    "city": "Dobrovlyany"
+  },
+  {
+    "city": "Dolyna"
+  },
+  {
+    "city": "Dolynska"
+  },
+  {
+    "city": "Domanivka"
+  },
+  {
+    "city": "Donetsk"
+  },
+  {
+    "city": "Doroshivtsi"
+  },
+  {
+    "city": "Doslidnytske"
+  },
+  {
+    "city": "Dovbysh"
+  },
+  {
+    "city": "Dovhe"
+  },
+  {
+    "city": "Dovzhansk"
+  },
+  {
+    "city": "Dovzhok"
+  },
+  {
+    "city": "Drabiv"
+  },
+  {
+    "city": "Drachyntsi"
+  },
+  {
+    "city": "Drohobych"
+  },
+  {
+    "city": "Druzhkivka"
+  },
+  {
+    "city": "Duba"
+  },
+  {
+    "city": "Dubivskyi"
+  },
+  {
+    "city": "Dubivtsi"
+  },
+  {
+    "city": "Dubno"
+  },
+  {
+    "city": "Dubove"
+  },
+  {
+    "city": "Dubrovytsya"
+  },
+  {
+    "city": "Dubyshche"
+  },
+  {
+    "city": "Dykanka"
+  },
+  {
+    "city": "Dymer"
+  },
+  {
+    "city": "Dyrdyn"
+  },
+  {
+    "city": "Dzhankoi"
+  },
+  {
+    "city": "Dzhulynka"
+  },
+  {
+    "city": "Enerhodar"
+  },
+  {
+    "city": "Fastiv"
+  },
+  {
+    "city": "Fastovets"
+  },
+  {
+    "city": "Fedorivka"
+  },
+  {
+    "city": "Fedorivka"
+  },
+  {
+    "city": "Fertesholmash"
+  },
+  {
+    "city": "Fontanka"
+  },
+  {
+    "city": "Gorishnyaya Vygnanka"
+  },
+  {
+    "city": "Haisyn"
+  },
+  {
+    "city": "Haivoron"
+  },
+  {
+    "city": "Halych"
+  },
+  {
+    "city": "Harasymiv"
+  },
+  {
+    "city": "Havrylivka"
+  },
+  {
+    "city": "Havryshivka"
+  },
+  {
+    "city": "Henichesk"
+  },
+  {
+    "city": "Hertsa"
+  },
+  {
+    "city": "Hirne"
+  },
+  {
+    "city": "Hirnyk"
+  },
+  {
+    "city": "Hirsivka"
+  },
+  {
+    "city": "Hleiuvatka"
+  },
+  {
+    "city": "Hlobyne"
+  },
+  {
+    "city": "Hlodosy"
+  },
+  {
+    "city": "Hlukhiv"
+  },
+  {
+    "city": "Hlukhivtsi"
+  },
+  {
+    "city": "Hlushkiv"
+  },
+  {
+    "city": "Hlyboka"
+  },
+  {
+    "city": "Hlyboke"
+  },
+  {
+    "city": "Hlyniany"
+  },
+  {
+    "city": "Hlynsk"
+  },
+  {
+    "city": "Hnivan"
+  },
+  {
+    "city": "Hola Prystan"
+  },
+  {
+    "city": "Holma"
+  },
+  {
+    "city": "Holoskiv"
+  },
+  {
+    "city": "Holovanivsk"
+  },
+  {
+    "city": "Holovetsko"
+  },
+  {
+    "city": "Holovkivka"
+  },
+  {
+    "city": "Holovne"
+  },
+  {
+    "city": "Holovy"
+  },
+  {
+    "city": "Holovyne"
+  },
+  {
+    "city": "Holubivka"
+  },
+  {
+    "city": "Holubivske"
+  },
+  {
+    "city": "Holubyne"
+  },
+  {
+    "city": "Holubynka"
+  },
+  {
+    "city": "Honcharivka"
+  },
+  {
+    "city": "Hora"
+  },
+  {
+    "city": "Hordiivka"
+  },
+  {
+    "city": "Horenka"
+  },
+  {
+    "city": "Horianivske"
+  },
+  {
+    "city": "Horinchovo"
+  },
+  {
+    "city": "Horishni Plavni"
+  },
+  {
+    "city": "Horlivka"
+  },
+  {
+    "city": "Hornostaivka"
+  },
+  {
+    "city": "Horodenka"
+  },
+  {
+    "city": "Horodnia"
+  },
+  {
+    "city": "Horodnytsia"
+  },
+  {
+    "city": "Horodok"
+  },
+  {
+    "city": "Horodok"
+  },
+  {
+    "city": "Horodok"
+  },
+  {
+    "city": "Horodyshche"
+  },
+  {
+    "city": "Horodyshche"
+  },
+  {
+    "city": "Horodyshche"
+  },
+  {
+    "city": "Horokhiv"
+  },
+  {
+    "city": "Horonda"
+  },
+  {
+    "city": "Horoshova"
+  },
+  {
+    "city": "Horyhliady"
+  },
+  {
+    "city": "Hoshcha"
+  },
+  {
+    "city": "Hostomel"
+  },
+  {
+    "city": "Hozhuly"
+  },
+  {
+    "city": "Hooby"
+  },
+  {
+    "city": "Hrabiv"
+  },
+  {
+    "city": "Hranitne"
+  },
+  {
+    "city": "Hrebinka"
+  },
+  {
+    "city": "Hrebinky"
+  },
+  {
+    "city": "Hreblya"
+  },
+  {
+    "city": "Hrechane"
+  },
+  {
+    "city": "Hrechyshkyne"
+  },
+  {
+    "city": "Hrunyky"
+  },
+  {
+    "city": "Hrushivtsi"
+  },
+  {
+    "city": "Hryshkivtsi"
+  },
+  {
+    "city": "Hubnyk"
+  },
+  {
+    "city": "Hubynykha"
+  },
+  {
+    "city": "Huiva"
+  },
+  {
+    "city": "Huliaipole"
+  },
+  {
+    "city": "Hulsk"
+  },
+  {
+    "city": "Hulyaypole"
+  },
+  {
+    "city": "Hupalivka"
+  },
+  {
+    "city": "Hurzuf"
+  },
+  {
+    "city": "Huta"
+  },
+  {
+    "city": "Hvardiyske"
+  },
+  {
+    "city": "Hvizdets"
+  },
+  {
+    "city": "Hyryavi Iskivtsi"
+  },
+  {
+    "city": "Ichki"
+  },
+  {
+    "city": "Ichnia"
+  },
+  {
+    "city": "Ilarionove"
+  },
+  {
+    "city": "Illintsi"
+  },
+  {
+    "city": "Iltsi"
+  },
+  {
+    "city": "Imeni Shevchenko"
+  },
+  {
+    "city": "Imstychovo"
+  },
+  {
+    "city": "Inkerman"
+  },
+  {
+    "city": "Irpin"
+  },
+  {
+    "city": "Irshansk"
+  },
+  {
+    "city": "Irshava"
+  },
+  {
+    "city": "Isaiky"
+  },
+  {
+    "city": "Isliam-Terek"
+  },
+  {
+    "city": "Ivana Franka"
+  },
+  {
+    "city": "Ivanivka"
+  },
+  {
+    "city": "Ivanivka"
+  },
+  {
+    "city": "Ivanivka"
+  },
+  {
+    "city": "Ivanivka"
+  },
+  {
+    "city": "Ivanivka"
+  },
+  {
+    "city": "Ivanivka"
+  },
+  {
+    "city": "Ivanivske"
+  },
+  {
+    "city": "Ivanivtsi"
+  },
+  {
+    "city": "Ivankiv"
+  },
+  {
+    "city": "Ivankov"
+  },
+  {
+    "city": "Ivano-Frankivsk"
+  },
+  {
+    "city": "Ivanopil"
+  },
+  {
+    "city": "Ivanopillia"
+  },
+  {
+    "city": "Ivanychi"
+  },
+  {
+    "city": "Ivashkivtsi"
+  },
+  {
+    "city": "Iverske"
+  },
+  {
+    "city": "Iziaslav"
+  },
+  {
+    "city": "Izium"
+  },
+  {
+    "city": "Izmail"
+  },
+  {
+    "city": "Izobilne"
+  },
+  {
+    "city": "Kachanivka"
+  },
+  {
+    "city": "Kaharlyk"
+  },
+  {
+    "city": "Kaihador"
+  },
+  {
+    "city": "Kakhovka"
+  },
+  {
+    "city": "Kalanchak"
+  },
+  {
+    "city": "Kalmiuske"
+  },
+  {
+    "city": "Kalush"
+  },
+  {
+    "city": "Kalynivka"
+  },
+  {
+    "city": "Kalynivka"
+  },
+  {
+    "city": "Kalynivka"
+  },
+  {
+    "city": "Kalynivske"
+  },
+  {
+    "city": "Kalyta"
+  },
+  {
+    "city": "Kamianets-Podilskyi"
+  },
+  {
+    "city": "Kamiani Potoky"
+  },
+  {
+    "city": "Kamianka-Dniprovska"
+  },
+  {
+    "city": "Kamianske"
+  },
+  {
+    "city": "Kamianske"
+  },
+  {
+    "city": "Kamin-Kashyrskyi"
+  },
+  {
+    "city": "Kamyane"
+  },
+  {
+    "city": "Kaniv"
+  },
+  {
+    "city": "Kapulivka"
+  },
+  {
+    "city": "Kapytolivka"
+  },
+  {
+    "city": "Kariv"
+  },
+  {
+    "city": "Karnaukhivka"
+  },
+  {
+    "city": "Karpylivka"
+  },
+  {
+    "city": "Kashperivka"
+  },
+  {
+    "city": "Kashperivka"
+  },
+  {
+    "city": "Katerynivka"
+  },
+  {
+    "city": "Kaydanovo"
+  },
+  {
+    "city": "Kazanka"
+  },
+  {
+    "city": "Kaznacheyivka"
+  },
+  {
+    "city": "Kehychivka"
+  },
+  {
+    "city": "Keleberda"
+  },
+  {
+    "city": "Kelmentsi"
+  },
+  {
+    "city": "Kernitsa"
+  },
+  {
+    "city": "Kharkiv"
+  },
+  {
+    "city": "Khartsyzk"
+  },
+  {
+    "city": "Kherson"
+  },
+  {
+    "city": "Khmelnytskyi"
+  },
+  {
+    "city": "Khmilnyk"
+  },
+  {
+    "city": "Khodoriv"
+  },
+  {
+    "city": "Khodorkiv"
+  },
+  {
+    "city": "Khomenky"
+  },
+  {
+    "city": "Khomutets"
+  },
+  {
+    "city": "Khorol"
+  },
+  {
+    "city": "Khoroshe"
+  },
+  {
+    "city": "Khoroshiv"
+  },
+  {
+    "city": "Khotiv"
+  },
+  {
+    "city": "Khotyn"
+  },
+  {
+    "city": "Khreshchatytske"
+  },
+  {
+    "city": "Khrestivka"
+  },
+  {
+    "city": "Khroly"
+  },
+  {
+    "city": "Khrustalnyi"
+  },
+  {
+    "city": "Khrystoforivka"
+  },
+  {
+    "city": "Khrystynivka"
+  },
+  {
+    "city": "Khust"
+  },
+  {
+    "city": "Khymchyn"
+  },
+  {
+    "city": "Kiliia"
+  },
+  {
+    "city": "Kitsman"
+  },
+  {
+    "city": "Kivertsi"
+  },
+  {
+    "city": "Klavdiyevo-Tarasove"
+  },
+  {
+    "city": "Klembivka"
+  },
+  {
+    "city": "Klenovyi"
+  },
+  {
+    "city": "Kniazhdvir"
+  },
+  {
+    "city": "Kobeliaky"
+  },
+  {
+    "city": "Kobyletska Poliana"
+  },
+  {
+    "city": "Kocherezhky"
+  },
+  {
+    "city": "Kochubeyev"
+  },
+  {
+    "city": "Kodra"
+  },
+  {
+    "city": "Kodyma"
+  },
+  {
+    "city": "Koktebel"
+  },
+  {
+    "city": "Kolchyno"
+  },
+  {
+    "city": "Kolky"
+  },
+  {
+    "city": "Kolochava"
+  },
+  {
+    "city": "Kolodribka"
+  },
+  {
+    "city": "Kolomyia"
+  },
+  {
+    "city": "Kolybaivka"
+  },
+  {
+    "city": "Kolychivka"
+  },
+  {
+    "city": "Komariv"
+  },
+  {
+    "city": "Komariv"
+  },
+  {
+    "city": "Komarno"
+  },
+  {
+    "city": "Kompaniivka"
+  },
+  {
+    "city": "Komysh-Zoria"
+  },
+  {
+    "city": "Komyshuvakha"
+  },
+  {
+    "city": "Konotop"
+  },
+  {
+    "city": "Kopachivka"
+  },
+  {
+    "city": "Kopaihorod"
+  },
+  {
+    "city": "Kopashnovo"
+  },
+  {
+    "city": "Korchyn"
+  },
+  {
+    "city": "Koreiz"
+  },
+  {
+    "city": "Koriukivka"
+  },
+  {
+    "city": "Korniyivka"
+  },
+  {
+    "city": "Kornyn"
+  },
+  {
+    "city": "Korolevo"
+  },
+  {
+    "city": "Korop"
+  },
+  {
+    "city": "Koropets"
+  },
+  {
+    "city": "Korosten"
+  },
+  {
+    "city": "Korostyshiv"
+  },
+  {
+    "city": "Korsun-Shevchenkivskyi"
+  },
+  {
+    "city": "Korytne"
+  },
+  {
+    "city": "Kosari"
+  },
+  {
+    "city": "Kosiv"
+  },
+  {
+    "city": "Kosmach"
+  },
+  {
+    "city": "Kostiantynivka"
+  },
+  {
+    "city": "Kostopil"
+  },
+  {
+    "city": "Kosyno"
+  },
+  {
+    "city": "Kotovka"
+  },
+  {
+    "city": "Kotsyubynske"
+  },
+  {
+    "city": "Kovalivka"
+  },
+  {
+    "city": "Kovalivka"
+  },
+  {
+    "city": "Kovel"
+  },
+  {
+    "city": "Koviahy"
+  },
+  {
+    "city": "Kozelets"
+  },
+  {
+    "city": "Kozelshchyna"
+  },
+  {
+    "city": "Kozhanka"
+  },
+  {
+    "city": "Kozhukhivka"
+  },
+  {
+    "city": "Koziatyn"
+  },
+  {
+    "city": "Kozova"
+  },
+  {
+    "city": "Kozyn"
+  },
+  {
+    "city": "Kozyriany"
+  },
+  {
+    "city": "Kramatorsk"
+  },
+  {
+    "city": "Krasnodon"
+  },
+  {
+    "city": "Krasnohrad"
+  },
+  {
+    "city": "Krasnoillia"
+  },
+  {
+    "city": "Krasnoilsk"
+  },
+  {
+    "city": "Krasnokamianka"
+  },
+  {
+    "city": "Krasnokutsk"
+  },
+  {
+    "city": "Krasnopilka"
+  },
+  {
+    "city": "Krasnopillya"
+  },
+  {
+    "city": "Krasnosilka"
+  },
+  {
+    "city": "Krasnostavtsi"
+  },
+  {
+    "city": "Krasnostavtsy"
+  },
+  {
+    "city": "Krasnyi Kut"
+  },
+  {
+    "city": "Krasnyk"
+  },
+  {
+    "city": "Kremenchuk"
+  },
+  {
+    "city": "Kremenets"
+  },
+  {
+    "city": "Kropyvnytskyi"
+  },
+  {
+    "city": "Kruhlyakivka"
+  },
+  {
+    "city": "Krupske"
+  },
+  {
+    "city": "Kryklyvets"
+  },
+  {
+    "city": "Krylos"
+  },
+  {
+    "city": "Krynychky"
+  },
+  {
+    "city": "Krynychky"
+  },
+  {
+    "city": "Krynychne"
+  },
+  {
+    "city": "Krynychne"
+  },
+  {
+    "city": "Kryukivshchyna"
+  },
+  {
+    "city": "Kryve Ozero"
+  },
+  {
+    "city": "Kryvorivnia"
+  },
+  {
+    "city": "Kryvyi Rih"
+  },
+  {
+    "city": "Kryzhopil"
+  },
+  {
+    "city": "Kubei"
+  },
+  {
+    "city": "Kuchakiv"
+  },
+  {
+    "city": "Kuchurhan"
+  },
+  {
+    "city": "Kukavka"
+  },
+  {
+    "city": "Kumachove"
+  },
+  {
+    "city": "Kupiansk"
+  },
+  {
+    "city": "Kurman"
+  },
+  {
+    "city": "Kurylivka"
+  },
+  {
+    "city": "Kushnytsia"
+  },
+  {
+    "city": "Kushuhum"
+  },
+  {
+    "city": "Kuty"
+  },
+  {
+    "city": "Kutyshche"
+  },
+  {
+    "city": "Kvasyliv"
+  },
+  {
+    "city": "Kvitky"
+  },
+  {
+    "city": "Kvitneve"
+  },
+  {
+    "city": "Kyinka"
+  },
+  {
+    "city": "Kyiv"
+  },
+  {
+    "city": "Kyrnasivka"
+  },
+  {
+    "city": "Kyrylivka"
+  },
+  {
+    "city": "Kyslychuvata"
+  },
+  {
+    "city": "Kytaihorod"
+  },
+  {
+    "city": "Ladychin"
+  },
+  {
+    "city": "Ladyzhyn"
+  },
+  {
+    "city": "Lanchyn"
+  },
+  {
+    "city": "Lanivtsi"
+  },
+  {
+    "city": "Lany"
+  },
+  {
+    "city": "Lativka"
+  },
+  {
+    "city": "Lavky"
+  },
+  {
+    "city": "Lazeshchyna"
+  },
+  {
+    "city": "Lazurne"
+  },
+  {
+    "city": "Lazy"
+  },
+  {
+    "city": "Lebedyn"
+  },
+  {
+    "city": "Lemeshivka"
+  },
+  {
+    "city": "Lenkivtsi"
+  },
+  {
+    "city": "Lepetykha"
+  },
+  {
+    "city": "Letychiv"
+  },
+  {
+    "city": "Lisnyky"
+  },
+  {
+    "city": "Lisohirka"
+  },
+  {
+    "city": "Lisova Lysiivka"
+  },
+  {
+    "city": "Lisovi Hrynivtsi"
+  },
+  {
+    "city": "Lisovychi"
+  },
+  {
+    "city": "Lityn"
+  },
+  {
+    "city": "Liubar"
+  },
+  {
+    "city": "Liubashivka"
+  },
+  {
+    "city": "Liubech"
+  },
+  {
+    "city": "Liubotyn"
+  },
+  {
+    "city": "Livadiia"
+  },
+  {
+    "city": "Livyntsi"
+  },
+  {
+    "city": "Lokachi"
+  },
+  {
+    "city": "Lokhvytsya"
+  },
+  {
+    "city": "Loshkarivka"
+  },
+  {
+    "city": "Losynivka"
+  },
+  {
+    "city": "Lozova"
+  },
+  {
+    "city": "Lozova"
+  },
+  {
+    "city": "Lozuvatka"
+  },
+  {
+    "city": "Lozuvatka"
+  },
+  {
+    "city": "Lubny"
+  },
+  {
+    "city": "Luchyste"
+  },
+  {
+    "city": "Luhansk"
+  },
+  {
+    "city": "Luhy"
+  },
+  {
+    "city": "Luhyny"
+  },
+  {
+    "city": "Luka"
+  },
+  {
+    "city": "Lukiv"
+  },
+  {
+    "city": "Lukovo"
+  },
+  {
+    "city": "Lupareve"
+  },
+  {
+    "city": "Lutsk"
+  },
+  {
+    "city": "Lviv"
+  },
+  {
+    "city": "Lychkove"
+  },
+  {
+    "city": "Lykhivka"
+  },
+  {
+    "city": "Lyman"
+  },
+  {
+    "city": "Lyman"
+  },
+  {
+    "city": "Lymanske"
+  },
+  {
+    "city": "Lypcha"
+  },
+  {
+    "city": "Lypetska Poliana"
+  },
+  {
+    "city": "Lypne"
+  },
+  {
+    "city": "Lypovets"
+  },
+  {
+    "city": "Lysets"
+  },
+  {
+    "city": "Lysianka"
+  },
+  {
+    "city": "Lysychansk"
+  },
+  {
+    "city": "Lysychovo"
+  },
+  {
+    "city": "Lytvynivka"
+  },
+  {
+    "city": "Lyubeshiv"
+  },
+  {
+    "city": "Lyublynets"
+  },
+  {
+    "city": "Lyuboml"
+  },
+  {
+    "city": "Lyubymivka"
+  },
+  {
+    "city": "Lyutenski Budyshcha"
+  },
+  {
+    "city": "Machukhy"
+  },
+  {
+    "city": "Mahdalynivka"
+  },
+  {
+    "city": "Maidan"
+  },
+  {
+    "city": "Maidan"
+  },
+  {
+    "city": "Maidanetske"
+  },
+  {
+    "city": "Makariv"
+  },
+  {
+    "city": "Makariv Yar"
+  },
+  {
+    "city": "Makhnivka"
+  },
+  {
+    "city": "Makiivka"
+  },
+  {
+    "city": "Mala Danylivka"
+  },
+  {
+    "city": "Mala Petrykivka"
+  },
+  {
+    "city": "Mala Uholka"
+  },
+  {
+    "city": "Mala Vyska"
+  },
+  {
+    "city": "Mali Kopani"
+  },
+  {
+    "city": "Malokaterynivka"
+  },
+  {
+    "city": "Malomykolaivka"
+  },
+  {
+    "city": "Malyi Kobeliachok"
+  },
+  {
+    "city": "Malyn"
+  },
+  {
+    "city": "Malyy Khodachkov"
+  },
+  {
+    "city": "Malyy Rakovets"
+  },
+  {
+    "city": "Manevychi"
+  },
+  {
+    "city": "Manhush"
+  },
+  {
+    "city": "Mankivka"
+  },
+  {
+    "city": "Mardarivka"
+  },
+  {
+    "city": "Marhanets"
+  },
+  {
+    "city": "Marianivka"
+  },
+  {
+    "city": "Mariiampil"
+  },
+  {
+    "city": "Mariupol"
+  },
+  {
+    "city": "Masandra"
+  },
+  {
+    "city": "Mashivka"
+  },
+  {
+    "city": "Matroska"
+  },
+  {
+    "city": "Matviyivka"
+  },
+  {
+    "city": "Mazurivka"
+  },
+  {
+    "city": "Medenychi"
+  },
+  {
+    "city": "Medvyn"
+  },
+  {
+    "city": "Medynia"
+  },
+  {
+    "city": "Medzhybizh"
+  },
+  {
+    "city": "Melekyne"
+  },
+  {
+    "city": "Melioratyvne"
+  },
+  {
+    "city": "Melitopol"
+  },
+  {
+    "city": "Melnyky"
+  },
+  {
+    "city": "Melnyky"
+  },
+  {
+    "city": "Mena"
+  },
+  {
+    "city": "Menchykury"
+  },
+  {
+    "city": "Mezhova"
+  },
+  {
+    "city": "Mezhyrich"
+  },
+  {
+    "city": "Mikhailivka"
+  },
+  {
+    "city": "Milove"
+  },
+  {
+    "city": "Miusynsk"
+  },
+  {
+    "city": "Mizhhiria"
+  },
+  {
+    "city": "Mliiv"
+  },
+  {
+    "city": "Mohyliv-Podilskyi"
+  },
+  {
+    "city": "Molochansk"
+  },
+  {
+    "city": "Molodkiv"
+  },
+  {
+    "city": "Molodohvardiisk"
+  },
+  {
+    "city": "Monastyrets"
+  },
+  {
+    "city": "Monastyryshche"
+  },
+  {
+    "city": "Monastyryska"
+  },
+  {
+    "city": "Morshyn"
+  },
+  {
+    "city": "Morske"
+  },
+  {
+    "city": "Moshanets"
+  },
+  {
+    "city": "Moshny"
+  },
+  {
+    "city": "Moshoryne"
+  },
+  {
+    "city": "Mostove"
+  },
+  {
+    "city": "Mukacheve"
+  },
+  {
+    "city": "Murovani Kurylivtsi"
+  },
+  {
+    "city": "Myhove"
+  },
+  {
+    "city": "Mykhailivka"
+  },
+  {
+    "city": "Mykhailivka"
+  },
+  {
+    "city": "Mykhailivka"
+  },
+  {
+    "city": "Mykhailivka"
+  },
+  {
+    "city": "Mykhailivka"
+  },
+  {
+    "city": "Mykhailivtsi"
+  },
+  {
+    "city": "Mykhailo-Kotsiubynske"
+  },
+  {
+    "city": "Mykhaylivka"
+  },
+  {
+    "city": "Mykolaiv"
+  },
+  {
+    "city": "Mykolaiv"
+  },
+  {
+    "city": "Mykolaivka"
+  },
+  {
+    "city": "Mykolaivka"
+  },
+  {
+    "city": "Mykolaivka"
+  },
+  {
+    "city": "Mykolaivka"
+  },
+  {
+    "city": "Mykolaivka"
+  },
+  {
+    "city": "Mykolaivka"
+  },
+  {
+    "city": "Mykolayiv"
+  },
+  {
+    "city": "Mykolayivka"
+  },
+  {
+    "city": "Mykolayivka"
+  },
+  {
+    "city": "Myrhorod"
+  },
+  {
+    "city": "Myrne"
+  },
+  {
+    "city": "Myrne"
+  },
+  {
+    "city": "Myrnohrad"
+  },
+  {
+    "city": "Myroliubivka"
+  },
+  {
+    "city": "Myronivka"
+  },
+  {
+    "city": "Myropil"
+  },
+  {
+    "city": "Myropillya"
+  },
+  {
+    "city": "Mytchenky"
+  },
+  {
+    "city": "Mytlashivka"
+  },
+  {
+    "city": "Nadezhdivka"
+  },
+  {
+    "city": "Nadvirna"
+  },
+  {
+    "city": "Nahirne"
+  },
+  {
+    "city": "Nahiryanka"
+  },
+  {
+    "city": "Napadovka"
+  },
+  {
+    "city": "Naraivka"
+  },
+  {
+    "city": "Narodychi"
+  },
+  {
+    "city": "Nasypne"
+  },
+  {
+    "city": "Nedaivoda"
+  },
+  {
+    "city": "Nedryhayliv"
+  },
+  {
+    "city": "Nehrovets"
+  },
+  {
+    "city": "Nehrovo"
+  },
+  {
+    "city": "Nekhvoroshch"
+  },
+  {
+    "city": "Nelypivtsi"
+  },
+  {
+    "city": "Nemishayeve"
+  },
+  {
+    "city": "Nemyriv"
+  },
+  {
+    "city": "Nemyriv"
+  },
+  {
+    "city": "Nerubaiske"
+  },
+  {
+    "city": "Netishyn"
+  },
+  {
+    "city": "Nikita"
+  },
+  {
+    "city": "Nikolske"
+  },
+  {
+    "city": "Nikopol"
+  },
+  {
+    "city": "Nizhyn"
+  },
+  {
+    "city": "Nosivka"
+  },
+  {
+    "city": "Nova Borova"
+  },
+  {
+    "city": "Nova Dacha"
+  },
+  {
+    "city": "Nova Haleshchyna"
+  },
+  {
+    "city": "Nova Hreblia"
+  },
+  {
+    "city": "Nova Kakhovka"
+  },
+  {
+    "city": "Nova Maiachka"
+  },
+  {
+    "city": "Nova Odesa"
+  },
+  {
+    "city": "Nova Ushytsia"
+  },
+  {
+    "city": "Novgorodskoye"
+  },
+  {
+    "city": "Novhorod-Siverskyi"
+  },
+  {
+    "city": "Novhorodka"
+  },
+  {
+    "city": "Novi Bilokorovychi"
+  },
+  {
+    "city": "Novi Kryvotuly"
+  },
+  {
+    "city": "Novi Sanzhary"
+  },
+  {
+    "city": "Novoaidar"
+  },
+  {
+    "city": "Novoarkhanhelsk"
+  },
+  {
+    "city": "Novoazovsk"
+  },
+  {
+    "city": "Novoderkul"
+  },
+  {
+    "city": "Novoekonomichne"
+  },
+  {
+    "city": "Novohrad-Volynskyi"
+  },
+  {
+    "city": "Novohuivynske"
+  },
+  {
+    "city": "Novohupalivka"
+  },
+  {
+    "city": "Novokrasnyanka"
+  },
+  {
+    "city": "Novomoskovsk"
+  },
+  {
+    "city": "Novomykolaivka"
+  },
+  {
+    "city": "Novomykolaivka"
+  },
+  {
+    "city": "Novomykolayivka"
+  },
+  {
+    "city": "Novomyrhorod"
+  },
+  {
+    "city": "Novooleksandrivka"
+  },
+  {
+    "city": "Novooleksandrivka"
+  },
+  {
+    "city": "Novoozerne"
+  },
+  {
+    "city": "Novopavlivka"
+  },
+  {
+    "city": "Novopetrivka"
+  },
+  {
+    "city": "Novopidhorodne"
+  },
+  {
+    "city": "Novopillia"
+  },
+  {
+    "city": "Novopokrovka"
+  },
+  {
+    "city": "Novopoltavka"
+  },
+  {
+    "city": "Novosamarka"
+  },
+  {
+    "city": "Novoselytsia"
+  },
+  {
+    "city": "Novoselytsia"
+  },
+  {
+    "city": "Novosilky"
+  },
+  {
+    "city": "Novotaromske"
+  },
+  {
+    "city": "Novotroitske"
+  },
+  {
+    "city": "Novoukrainka"
+  },
+  {
+    "city": "Novovasylivka"
+  },
+  {
+    "city": "Novovolynsk"
+  },
+  {
+    "city": "Novovorontsovka"
+  },
+  {
+    "city": "Novoyavorovskoye"
+  },
+  {
+    "city": "Novozarivka"
+  },
+  {
+    "city": "Novyi Bilous"
+  },
+  {
+    "city": "Novyi Buh"
+  },
+  {
+    "city": "Novyi Kalyniv"
+  },
+  {
+    "city": "Novyi Kropyvnyk"
+  },
+  {
+    "city": "Novyi Rozdil"
+  },
+  {
+    "city": "Novyi Yarychiv"
+  },
+  {
+    "city": "Novyy Svit"
+  },
+  {
+    "city": "Nyzhni Sirohozy"
+  },
+  {
+    "city": "Nyzhnia Krynka"
+  },
+  {
+    "city": "Nyzhnie Selyshche"
+  },
+  {
+    "city": "Nyzhnii Bystryi"
+  },
+  {
+    "city": "Nyzhniy Dubovets"
+  },
+  {
+    "city": "Nyzhnohirskyi"
+  },
+  {
+    "city": "Nyzhnya Syrovatka"
+  },
+  {
+    "city": "Obertyn"
+  },
+  {
+    "city": "Obolon"
+  },
+  {
+    "city": "Obroshino"
+  },
+  {
+    "city": "Obukhiv"
+  },
+  {
+    "city": "Obukhivka"
+  },
+  {
+    "city": "Ochakiv"
+  },
+  {
+    "city": "Odesa"
+  },
+  {
+    "city": "Okhtyrka"
+  },
+  {
+    "city": "Oleksandriia"
+  },
+  {
+    "city": "Oleksandriiske"
+  },
+  {
+    "city": "Oleksandrivka"
+  },
+  {
+    "city": "Oleksandrivka"
+  },
+  {
+    "city": "Oleksandrivka"
+  },
+  {
+    "city": "Oleksandrivka"
+  },
+  {
+    "city": "Oleksandrivka"
+  },
+  {
+    "city": "Oleksandrivsk"
+  },
+  {
+    "city": "Oleksiivka"
+  },
+  {
+    "city": "Oleksiivka"
+  },
+  {
+    "city": "Olenivka"
+  },
+  {
+    "city": "Olenivka"
+  },
+  {
+    "city": "Olenivka"
+  },
+  {
+    "city": "Oleshky"
+  },
+  {
+    "city": "Olevsk"
+  },
+  {
+    "city": "Oleyvo-Korolvka"
+  },
+  {
+    "city": "Olyka"
+  },
+  {
+    "city": "Onufriivka"
+  },
+  {
+    "city": "Opishnya"
+  },
+  {
+    "city": "Opytne"
+  },
+  {
+    "city": "Orativ"
+  },
+  {
+    "city": "Orikhiv"
+  },
+  {
+    "city": "Orilka"
+  },
+  {
+    "city": "Orzhytsia"
+  },
+  {
+    "city": "Osiy"
+  },
+  {
+    "city": "Ostapovo"
+  },
+  {
+    "city": "Oster"
+  },
+  {
+    "city": "Ostriv"
+  },
+  {
+    "city": "Ostroh"
+  },
+  {
+    "city": "Osynove"
+  },
+  {
+    "city": "Otyniia"
+  },
+  {
+    "city": "Ovidiopol"
+  },
+  {
+    "city": "Ovruch"
+  },
+  {
+    "city": "Ozaryntsi"
+  },
+  {
+    "city": "Ozeriany"
+  },
+  {
+    "city": "Ozerne"
+  },
+  {
+    "city": "Palahychi"
+  },
+  {
+    "city": "Palanka"
+  },
+  {
+    "city": "Parafiivka"
+  },
+  {
+    "city": "Partenit"
+  },
+  {
+    "city": "Partyzanske"
+  },
+  {
+    "city": "Pashkivtsi"
+  },
+  {
+    "city": "Pasika"
+  },
+  {
+    "city": "Pasytsely"
+  },
+  {
+    "city": "Pavlivka"
+  },
+  {
+    "city": "Pavlohrad"
+  },
+  {
+    "city": "Pechenihy"
+  },
+  {
+    "city": "Pechenizhyn"
+  },
+  {
+    "city": "Perebykivtsi"
+  },
+  {
+    "city": "Perechyn"
+  },
+  {
+    "city": "Peredilske"
+  },
+  {
+    "city": "Perehinske"
+  },
+  {
+    "city": "Peremoha"
+  },
+  {
+    "city": "Peremyl"
+  },
+  {
+    "city": "Peremyshliany"
+  },
+  {
+    "city": "Pereshchepyne"
+  },
+  {
+    "city": "Perevalsk"
+  },
+  {
+    "city": "Pereyaslav-Khmelnytskyy"
+  },
+  {
+    "city": "Perkivtsi"
+  },
+  {
+    "city": "Pershotravensk"
+  },
+  {
+    "city": "Pershotravensk"
+  },
+  {
+    "city": "Pershotravneve"
+  },
+  {
+    "city": "Pervomaisk"
+  },
+  {
+    "city": "Pervomaisk"
+  },
+  {
+    "city": "Pervomaiske"
+  },
+  {
+    "city": "Pervomaiskyi"
+  },
+  {
+    "city": "Pervomaiskyi"
+  },
+  {
+    "city": "Petropavlivka"
+  },
+  {
+    "city": "Petropavlivka"
+  },
+  {
+    "city": "Petropavlivska Borshchahivka"
+  },
+  {
+    "city": "Petrove"
+  },
+  {
+    "city": "Petrushiv"
+  },
+  {
+    "city": "Petrykivka"
+  },
+  {
+    "city": "Piatkivka"
+  },
+  {
+    "city": "Piatyhory"
+  },
+  {
+    "city": "Piatykhatky"
+  },
+  {
+    "city": "Pidhaitsi"
+  },
+  {
+    "city": "Pidhorodna"
+  },
+  {
+    "city": "Pidhorodne"
+  },
+  {
+    "city": "Pidlisne"
+  },
+  {
+    "city": "Pidplesha"
+  },
+  {
+    "city": "Pidvolochysk"
+  },
+  {
+    "city": "Piilo"
+  },
+  {
+    "city": "Pishcha"
+  },
+  {
+    "city": "Pishchane"
+  },
+  {
+    "city": "Pishchanka"
+  },
+  {
+    "city": "Piskivka"
+  },
+  {
+    "city": "Pivdenne"
+  },
+  {
+    "city": "Pivdenne"
+  },
+  {
+    "city": "Plodorodne"
+  },
+  {
+    "city": "Ploske"
+  },
+  {
+    "city": "Pluzhnoye"
+  },
+  {
+    "city": "Pnikut"
+  },
+  {
+    "city": "Poberezhzhia"
+  },
+  {
+    "city": "Podilsk"
+  },
+  {
+    "city": "Podishor"
+  },
+  {
+    "city": "Podove"
+  },
+  {
+    "city": "Pohreby"
+  },
+  {
+    "city": "Pohrebyshche"
+  },
+  {
+    "city": "Pokrov"
+  },
+  {
+    "city": "Pokrovsk"
+  },
+  {
+    "city": "Pokrovske"
+  },
+  {
+    "city": "Poliana"
+  },
+  {
+    "city": "Polianka"
+  },
+  {
+    "city": "Polohy"
+  },
+  {
+    "city": "Polohy"
+  },
+  {
+    "city": "Polovynkyne"
+  },
+  {
+    "city": "Poltava"
+  },
+  {
+    "city": "Poltavka"
+  },
+  {
+    "city": "Pomichna"
+  },
+  {
+    "city": "Pomynyk"
+  },
+  {
+    "city": "Poninka"
+  },
+  {
+    "city": "Popasne"
+  },
+  {
+    "city": "Popeli"
+  },
+  {
+    "city": "Popelnaste"
+  },
+  {
+    "city": "Popilnia"
+  },
+  {
+    "city": "Popivtsi"
+  },
+  {
+    "city": "Potashnia"
+  },
+  {
+    "city": "Potik"
+  },
+  {
+    "city": "Potoky"
+  },
+  {
+    "city": "Preobrazhenka"
+  },
+  {
+    "city": "Preobrazhenka"
+  },
+  {
+    "city": "Preslav"
+  },
+  {
+    "city": "Priadivka"
+  },
+  {
+    "city": "Pridberezzia"
+  },
+  {
+    "city": "Pristromy"
+  },
+  {
+    "city": "Prosyana"
+  },
+  {
+    "city": "Pryazovske"
+  },
+  {
+    "city": "Prybuzhzhia"
+  },
+  {
+    "city": "Prydniprovske"
+  },
+  {
+    "city": "Prykolotne"
+  },
+  {
+    "city": "Pryluky"
+  },
+  {
+    "city": "Prymorsk"
+  },
+  {
+    "city": "Prymorske"
+  },
+  {
+    "city": "Prymorske"
+  },
+  {
+    "city": "Pryshyb"
+  },
+  {
+    "city": "Pryshyb"
+  },
+  {
+    "city": "Pryvillya"
+  },
+  {
+    "city": "Pryvilne"
+  },
+  {
+    "city": "Pryvitne"
+  },
+  {
+    "city": "Pryvitne"
+  },
+  {
+    "city": "Puhachivka"
+  },
+  {
+    "city": "Pulyny"
+  },
+  {
+    "city": "Pustomyty"
+  },
+  {
+    "city": "Putyla"
+  },
+  {
+    "city": "Putyvl"
+  },
+  {
+    "city": "Pysarivka"
+  },
+  {
+    "city": "Pysarivka"
+  },
+  {
+    "city": "Pysarivka"
+  },
+  {
+    "city": "Pysmenne"
+  },
+  {
+    "city": "Rachky"
+  },
+  {
+    "city": "Radisne"
+  },
+  {
+    "city": "Radomyshl"
+  },
+  {
+    "city": "Radovel"
+  },
+  {
+    "city": "Radushne"
+  },
+  {
+    "city": "Radyvyliv"
+  },
+  {
+    "city": "Rakhiv"
+  },
+  {
+    "city": "Rashkiv"
+  },
+  {
+    "city": "Ratne"
+  },
+  {
+    "city": "Rava-Ruska"
+  },
+  {
+    "city": "Razdory"
+  },
+  {
+    "city": "Reia"
+  },
+  {
+    "city": "Reni"
+  },
+  {
+    "city": "Repuzhyntsi"
+  },
+  {
+    "city": "Reshetylivka"
+  },
+  {
+    "city": "Richytsya"
+  },
+  {
+    "city": "Rivne"
+  },
+  {
+    "city": "Rogozno"
+  },
+  {
+    "city": "Rohatyn"
+  },
+  {
+    "city": "Roishche"
+  },
+  {
+    "city": "Rokyni"
+  },
+  {
+    "city": "Rokytne"
+  },
+  {
+    "city": "Romaniv"
+  },
+  {
+    "city": "Romny"
+  },
+  {
+    "city": "Ropcha"
+  },
+  {
+    "city": "Rosishka"
+  },
+  {
+    "city": "Rososhany"
+  },
+  {
+    "city": "Rotmistrivka"
+  },
+  {
+    "city": "Rovenky"
+  },
+  {
+    "city": "Rozdilna"
+  },
+  {
+    "city": "Rozdolne"
+  },
+  {
+    "city": "Rozhniativ"
+  },
+  {
+    "city": "Rozhyshche"
+  },
+  {
+    "city": "Rozivka"
+  },
+  {
+    "city": "Rozsosha"
+  },
+  {
+    "city": "Rozsoshentsi"
+  },
+  {
+    "city": "Rozvazh"
+  },
+  {
+    "city": "Rubanivka"
+  },
+  {
+    "city": "Rubizhne"
+  },
+  {
+    "city": "Rudkivka"
+  },
+  {
+    "city": "Rudno"
+  },
+  {
+    "city": "Rudnyky"
+  },
+  {
+    "city": "Rudnyky"
+  },
+  {
+    "city": "Rudnytsia"
+  },
+  {
+    "city": "Ruska Mokra"
+  },
+  {
+    "city": "Rusov"
+  },
+  {
+    "city": "Ruzhyn"
+  },
+  {
+    "city": "Rybakivka"
+  },
+  {
+    "city": "Rzhyshchiv"
+  },
+  {
+    "city": "Sabatynivka"
+  },
+  {
+    "city": "Sadky"
+  },
+  {
+    "city": "Sadove"
+  },
+  {
+    "city": "Saivka"
+  },
+  {
+    "city": "Saksahan"
+  },
+  {
+    "city": "Saky"
+  },
+  {
+    "city": "Samarske"
+  },
+  {
+    "city": "Samary-Orikhovi"
+  },
+  {
+    "city": "Sambir"
+  },
+  {
+    "city": "Samchyky"
+  },
+  {
+    "city": "Samhorodok"
+  },
+  {
+    "city": "Sarata"
+  },
+  {
+    "city": "Sarazhynka"
+  },
+  {
+    "city": "Sarny"
+  },
+  {
+    "city": "Satanov"
+  },
+  {
+    "city": "Savran"
+  },
+  {
+    "city": "Savyntsi"
+  },
+  {
+    "city": "Savyntsi"
+  },
+  {
+    "city": "Sedlyshche"
+  },
+  {
+    "city": "Sedniv"
+  },
+  {
+    "city": "Seliatyn"
+  },
+  {
+    "city": "Selydove"
+  },
+  {
+    "city": "Semenivka"
+  },
+  {
+    "city": "Semenivka"
+  },
+  {
+    "city": "Semenivka"
+  },
+  {
+    "city": "Semykozivka"
+  },
+  {
+    "city": "Senkevychivka"
+  },
+  {
+    "city": "Serby"
+  },
+  {
+    "city": "Serbynivtsi"
+  },
+  {
+    "city": "Serdyte"
+  },
+  {
+    "city": "Serednye"
+  },
+  {
+    "city": "Sernyky"
+  },
+  {
+    "city": "Sevastopol"
+  },
+  {
+    "city": "Severynivka"
+  },
+  {
+    "city": "Shabelkivka"
+  },
+  {
+    "city": "Shakhtarsk"
+  },
+  {
+    "city": "Shalyhyne"
+  },
+  {
+    "city": "Shamraivka"
+  },
+  {
+    "city": "Shandra"
+  },
+  {
+    "city": "Sharhorod"
+  },
+  {
+    "city": "Sharivka"
+  },
+  {
+    "city": "Sharovechka"
+  },
+  {
+    "city": "Shatsk"
+  },
+  {
+    "city": "Shchastia"
+  },
+  {
+    "city": "Shchebetovka"
+  },
+  {
+    "city": "Shcherbani"
+  },
+  {
+    "city": "Sheludkivka"
+  },
+  {
+    "city": "Shepetivka"
+  },
+  {
+    "city": "Shepit"
+  },
+  {
+    "city": "Sheshory"
+  },
+  {
+    "city": "Shevchenkove"
+  },
+  {
+    "city": "Sholokhove"
+  },
+  {
+    "city": "Shostka"
+  },
+  {
+    "city": "Shpykiv"
+  },
+  {
+    "city": "Shramkivka"
+  },
+  {
+    "city": "Shulhivka"
+  },
+  {
+    "city": "Shyriaieve"
+  },
+  {
+    "city": "Shyroke"
+  },
+  {
+    "city": "Shyshaky"
+  },
+  {
+    "city": "Sievierodonetsk"
+  },
+  {
+    "city": "Simeiz"
+  },
+  {
+    "city": "Simer"
+  },
+  {
+    "city": "Simferopol"
+  },
+  {
+    "city": "Skadovsk"
+  },
+  {
+    "city": "Skalat"
+  },
+  {
+    "city": "Skelivka"
+  },
+  {
+    "city": "Skhidnytsia"
+  },
+  {
+    "city": "Skole"
+  },
+  {
+    "city": "Skomoroshky"
+  },
+  {
+    "city": "Skvyra"
+  },
+  {
+    "city": "Slatyne"
+  },
+  {
+    "city": "Slavhorod"
+  },
+  {
+    "city": "Slavutych"
+  },
+  {
+    "city": "Slobodka-Mushkatovka"
+  },
+  {
+    "city": "Slobozhanske"
+  },
+  {
+    "city": "Slobozhanske"
+  },
+  {
+    "city": "Sloviansk"
+  },
+  {
+    "city": "Slovyanka"
+  },
+  {
+    "city": "Smila"
+  },
+  {
+    "city": "Smyha"
+  },
+  {
+    "city": "Sniatyn"
+  },
+  {
+    "city": "Snihurivka"
+  },
+  {
+    "city": "Snizhne"
+  },
+  {
+    "city": "Snovsk"
+  },
+  {
+    "city": "Sofiivka"
+  },
+  {
+    "city": "Sofiivka"
+  },
+  {
+    "city": "Sofiyivska Borshchahivka"
+  },
+  {
+    "city": "Sokal"
+  },
+  {
+    "city": "Sokilnyky"
+  },
+  {
+    "city": "Sokolivka"
+  },
+  {
+    "city": "Sokolove"
+  },
+  {
+    "city": "Sokyriany"
+  },
+  {
+    "city": "Solochyn"
+  },
+  {
+    "city": "Solomonovo"
+  },
+  {
+    "city": "Solone"
+  },
+  {
+    "city": "Solonka"
+  },
+  {
+    "city": "Solotvyn"
+  },
+  {
+    "city": "Solotvyno"
+  },
+  {
+    "city": "Somaky"
+  },
+  {
+    "city": "Sosnivka"
+  },
+  {
+    "city": "Sosnivka"
+  },
+  {
+    "city": "Sosnytsia"
+  },
+  {
+    "city": "Spaske"
+  },
+  {
+    "city": "Stakhanov"
+  },
+  {
+    "city": "Stanislavchyk"
+  },
+  {
+    "city": "Stanytsia Luhanska"
+  },
+  {
+    "city": "Stara Huta"
+  },
+  {
+    "city": "Stara Kulna"
+  },
+  {
+    "city": "Stara Sil"
+  },
+  {
+    "city": "Stara Syniava"
+  },
+  {
+    "city": "Stara Vyzhivka"
+  },
+  {
+    "city": "Stare Selo"
+  },
+  {
+    "city": "Stari Kodaky"
+  },
+  {
+    "city": "Stari Kryvotuly"
+  },
+  {
+    "city": "Stari Petrivtsi"
+  },
+  {
+    "city": "Stari Sanzhary"
+  },
+  {
+    "city": "Stari Troiany"
+  },
+  {
+    "city": "Starobilsk"
+  },
+  {
+    "city": "Staryi Mizun"
+  },
+  {
+    "city": "Staryi Ostropil"
+  },
+  {
+    "city": "Staryi Saltiv"
+  },
+  {
+    "city": "Staryi Sambir"
+  },
+  {
+    "city": "Staryy Chortoryysk"
+  },
+  {
+    "city": "Staryy Skalat"
+  },
+  {
+    "city": "Stavchany"
+  },
+  {
+    "city": "Stavky"
+  },
+  {
+    "city": "Stavnytsia"
+  },
+  {
+    "city": "Stavyshche"
+  },
+  {
+    "city": "Stepanivka"
+  },
+  {
+    "city": "Stepanivka"
+  },
+  {
+    "city": "Stepnohirsk"
+  },
+  {
+    "city": "Stepove"
+  },
+  {
+    "city": "Stina"
+  },
+  {
+    "city": "Stinka"
+  },
+  {
+    "city": "Storozhynets"
+  },
+  {
+    "city": "Stratiivka"
+  },
+  {
+    "city": "Strilkove"
+  },
+  {
+    "city": "Strilky"
+  },
+  {
+    "city": "Stryi"
+  },
+  {
+    "city": "Stryzhavka"
+  },
+  {
+    "city": "Stryzhivka"
+  },
+  {
+    "city": "Stryzhivka"
+  },
+  {
+    "city": "Studenytsia"
+  },
+  {
+    "city": "Sudak"
+  },
+  {
+    "city": "Sudiivka"
+  },
+  {
+    "city": "Sudova Vyshnya"
+  },
+  {
+    "city": "Sukha"
+  },
+  {
+    "city": "Sukhodilsk"
+  },
+  {
+    "city": "Sumy"
+  },
+  {
+    "city": "Suprunivka"
+  },
+  {
+    "city": "Sursko-Lytovske"
+  },
+  {
+    "city": "Sursko-Mykhailivka"
+  },
+  {
+    "city": "Suskovo"
+  },
+  {
+    "city": "Sutysky"
+  },
+  {
+    "city": "Suvorove"
+  },
+  {
+    "city": "Svalyava"
+  },
+  {
+    "city": "Svatove"
+  },
+  {
+    "city": "Svesa"
+  },
+  {
+    "city": "Sviatylivka"
+  },
+  {
+    "city": "Svitlohirske"
+  },
+  {
+    "city": "Svitlovodsk"
+  },
+  {
+    "city": "Svyatets"
+  },
+  {
+    "city": "Svyatohirsk"
+  },
+  {
+    "city": "Synelnykove"
+  },
+  {
+    "city": "Syniukhyn Brid"
+  },
+  {
+    "city": "Synkiv"
+  },
+  {
+    "city": "Sytkivtsi"
+  },
+  {
+    "city": "Takhtaulove"
+  },
+  {
+    "city": "Talalaivka"
+  },
+  {
+    "city": "Talne"
+  },
+  {
+    "city": "Tarashcha"
+  },
+  {
+    "city": "Tarasivka"
+  },
+  {
+    "city": "Tartak"
+  },
+  {
+    "city": "Tarutyne"
+  },
+  {
+    "city": "Tatarbunary"
+  },
+  {
+    "city": "Tatariv"
+  },
+  {
+    "city": "Tavriiske"
+  },
+  {
+    "city": "Tavrychanka"
+  },
+  {
+    "city": "Teplodar"
+  },
+  {
+    "city": "Teplyk"
+  },
+  {
+    "city": "Tereshky"
+  },
+  {
+    "city": "Teresva"
+  },
+  {
+    "city": "Ternivka"
+  },
+  {
+    "city": "Ternivka"
+  },
+  {
+    "city": "Ternivka"
+  },
+  {
+    "city": "Ternivka"
+  },
+  {
+    "city": "Ternopil"
+  },
+  {
+    "city": "Ternuvate"
+  },
+  {
+    "city": "Tetiiv"
+  },
+  {
+    "city": "Tiachiv"
+  },
+  {
+    "city": "Tiudiv"
+  },
+  {
+    "city": "Tlumach"
+  },
+  {
+    "city": "Tokari"
+  },
+  {
+    "city": "Tokmak"
+  },
+  {
+    "city": "Tomakivka"
+  },
+  {
+    "city": "Tomashhorod"
+  },
+  {
+    "city": "Tomashpil"
+  },
+  {
+    "city": "Topchyno"
+  },
+  {
+    "city": "Torchyn"
+  },
+  {
+    "city": "Toretsk"
+  },
+  {
+    "city": "Trebukhivtsi"
+  },
+  {
+    "city": "Troiandove"
+  },
+  {
+    "city": "Troianiv"
+  },
+  {
+    "city": "Trokhizbenka"
+  },
+  {
+    "city": "Trostianets"
+  },
+  {
+    "city": "Trostianets"
+  },
+  {
+    "city": "Troyitske"
+  },
+  {
+    "city": "Trudove"
+  },
+  {
+    "city": "Trushki"
+  },
+  {
+    "city": "Truskavets"
+  },
+  {
+    "city": "Tsarychanka"
+  },
+  {
+    "city": "Tsuman"
+  },
+  {
+    "city": "Tsybuleve"
+  },
+  {
+    "city": "Tsybuliv"
+  },
+  {
+    "city": "Tulchyn"
+  },
+  {
+    "city": "Turbiv"
+  },
+  {
+    "city": "Turiia"
+  },
+  {
+    "city": "Turiysk"
+  },
+  {
+    "city": "Turka"
+  },
+  {
+    "city": "Tynytsia"
+  },
+  {
+    "city": "Tysmenytsia"
+  },
+  {
+    "city": "Tyvriv"
+  },
+  {
+    "city": "Uhroyidy"
+  },
+  {
+    "city": "Ukrainka"
+  },
+  {
+    "city": "Ukrainsk"
+  },
+  {
+    "city": "Ulashkivtsi"
+  },
+  {
+    "city": "Uman"
+  },
+  {
+    "city": "Uniatychi"
+  },
+  {
+    "city": "Urzuf"
+  },
+  {
+    "city": "Uspenivka"
+  },
+  {
+    "city": "Uspenka"
+  },
+  {
+    "city": "Ust-Chorna"
+  },
+  {
+    "city": "Ustia"
+  },
+  {
+    "city": "Ustia"
+  },
+  {
+    "city": "Ustyluh"
+  },
+  {
+    "city": "Ustynivka"
+  },
+  {
+    "city": "Utoropy"
+  },
+  {
+    "city": "Uzhhorod"
+  },
+  {
+    "city": "Uzyn"
+  },
+  {
+    "city": "Vakhnivka"
+  },
+  {
+    "city": "Vakhrusheve"
+  },
+  {
+    "city": "Vakulenchuk"
+  },
+  {
+    "city": "Vakulove"
+  },
+  {
+    "city": "Valky"
+  },
+  {
+    "city": "Vapniarka"
+  },
+  {
+    "city": "Varash"
+  },
+  {
+    "city": "Vasyliv"
+  },
+  {
+    "city": "Vasylivka"
+  },
+  {
+    "city": "Vasylkiv"
+  },
+  {
+    "city": "Vasylkivka"
+  },
+  {
+    "city": "Vatutine"
+  },
+  {
+    "city": "Velbivka"
+  },
+  {
+    "city": "Velikiy Khodachkov"
+  },
+  {
+    "city": "Velyka Andrusivka"
+  },
+  {
+    "city": "Velyka Bahachka"
+  },
+  {
+    "city": "Velyka Bilozerka"
+  },
+  {
+    "city": "Velyka Burimka"
+  },
+  {
+    "city": "Velyka Byihan"
+  },
+  {
+    "city": "Velyka Dymerka"
+  },
+  {
+    "city": "Velyka Kyriivka"
+  },
+  {
+    "city": "Velyka Lepetykha"
+  },
+  {
+    "city": "Velyka Linyna"
+  },
+  {
+    "city": "Velyka Mykhailivka"
+  },
+  {
+    "city": "Velyka Oleksandrivka"
+  },
+  {
+    "city": "Velyka Pavlivka"
+  },
+  {
+    "city": "Velyki Komiaty"
+  },
+  {
+    "city": "Velyki Korovyntsi"
+  },
+  {
+    "city": "Velyki Luchky"
+  },
+  {
+    "city": "Velyki Mosty"
+  },
+  {
+    "city": "Velyki Sorochyntsi"
+  },
+  {
+    "city": "Velykodolynske"
+  },
+  {
+    "city": "Velykomykhaylivka"
+  },
+  {
+    "city": "Velykyi Burluk"
+  },
+  {
+    "city": "Velykyi Bychkiv"
+  },
+  {
+    "city": "Velykyi Dalnyk"
+  },
+  {
+    "city": "Velykyi Khutir"
+  },
+  {
+    "city": "Velykyi Liubin"
+  },
+  {
+    "city": "Velykyi Rakovets"
+  },
+  {
+    "city": "Velykyi Trostianets"
+  },
+  {
+    "city": "Velykyi Zhvanchyk"
+  },
+  {
+    "city": "Velykyy Bereznyy"
+  },
+  {
+    "city": "Vendychany"
+  },
+  {
+    "city": "Verbivka"
+  },
+  {
+    "city": "Verbka"
+  },
+  {
+    "city": "Verbka"
+  },
+  {
+    "city": "Verbky"
+  },
+  {
+    "city": "Verchany"
+  },
+  {
+    "city": "Verkhivka"
+  },
+  {
+    "city": "Verkhivtseve"
+  },
+  {
+    "city": "Verkhivtsi"
+  },
+  {
+    "city": "Verkhnia Stynava"
+  },
+  {
+    "city": "Verkhnii Luzhok"
+  },
+  {
+    "city": "Verkhnii Rohachyk"
+  },
+  {
+    "city": "Verkhnii Yaseniv"
+  },
+  {
+    "city": "Verkhnodniprovsk"
+  },
+  {
+    "city": "Verkhnosadove"
+  },
+  {
+    "city": "Verkhovyna"
+  },
+  {
+    "city": "Veryn"
+  },
+  {
+    "city": "Vesela Dolyna"
+  },
+  {
+    "city": "Vesela Hora"
+  },
+  {
+    "city": "Vesele"
+  },
+  {
+    "city": "Vesele"
+  },
+  {
+    "city": "Veselivka"
+  },
+  {
+    "city": "Veselynove"
+  },
+  {
+    "city": "Viitivtsi"
+  },
+  {
+    "city": "Viktoriya"
+  },
+  {
+    "city": "Vilkhivka"
+  },
+  {
+    "city": "Vilkhovets"
+  },
+  {
+    "city": "Vilne"
+  },
+  {
+    "city": "Vilne"
+  },
+  {
+    "city": "Vilnohirsk"
+  },
+  {
+    "city": "Vilshanka"
+  },
+  {
+    "city": "Vilshanka"
+  },
+  {
+    "city": "Vilshany"
+  },
+  {
+    "city": "Vilshany"
+  },
+  {
+    "city": "Vilbivne"
+  },
+  {
+    "city": "Vilkhivtsi-Lazy"
+  },
+  {
+    "city": "Vilnyansk"
+  },
+  {
+    "city": "Vinkivtsi"
+  },
+  {
+    "city": "Vinnytsia"
+  },
+  {
+    "city": "Vistria"
+  },
+  {
+    "city": "Vladychen"
+  },
+  {
+    "city": "Voinivka"
+  },
+  {
+    "city": "Voinyliv"
+  },
+  {
+    "city": "Volitsa"
+  },
+  {
+    "city": "Volnovakha"
+  },
+  {
+    "city": "Volodarka"
+  },
+  {
+    "city": "Volodkova Divytsia"
+  },
+  {
+    "city": "Volodymyr-Volynskyi"
+  },
+  {
+    "city": "Volosianka"
+  },
+  {
+    "city": "Voloske"
+  },
+  {
+    "city": "Volovets"
+  },
+  {
+    "city": "Volytsia"
+  },
+  {
+    "city": "Vorokhta"
+  },
+  {
+    "city": "Voronovytsia"
+  },
+  {
+    "city": "Vorotsev"
+  },
+  {
+    "city": "Vorozhba"
+  },
+  {
+    "city": "Vorzel"
+  },
+  {
+    "city": "Voskresenka"
+  },
+  {
+    "city": "Vovchansk"
+  },
+  {
+    "city": "Vovche"
+  },
+  {
+    "city": "Vovchynets"
+  },
+  {
+    "city": "Vovkovyntsi"
+  },
+  {
+    "city": "Voziluv"
+  },
+  {
+    "city": "Voznesensk"
+  },
+  {
+    "city": "Vradiivka"
+  },
+  {
+    "city": "Vremivka"
+  },
+  {
+    "city": "Vyhoda"
+  },
+  {
+    "city": "Vylok"
+  },
+  {
+    "city": "Vynnyky"
+  },
+  {
+    "city": "Vynohrad"
+  },
+  {
+    "city": "Vynohradiv"
+  },
+  {
+    "city": "Vynohradne"
+  },
+  {
+    "city": "Vyrishalne"
+  },
+  {
+    "city": "Vyshcheolchedaiv"
+  },
+  {
+    "city": "Vyshhorod"
+  },
+  {
+    "city": "Vyshkovo"
+  },
+  {
+    "city": "Vyshneve"
+  },
+  {
+    "city": "Vyshneve"
+  },
+  {
+    "city": "Vyshnivchyk"
+  },
+  {
+    "city": "Vysokopillia"
+  },
+  {
+    "city": "Vysokopillia"
+  },
+  {
+    "city": "Vysunsk"
+  },
+  {
+    "city": "Vytylivka"
+  },
+  {
+    "city": "Vyzhnytsia"
+  },
+  {
+    "city": "Vyazivok"
+  },
+  {
+    "city": "Yablunets"
+  },
+  {
+    "city": "Yabluniv"
+  },
+  {
+    "city": "Yablunytsia"
+  },
+  {
+    "city": "Yahotyn"
+  },
+  {
+    "city": "Yakymivka"
+  },
+  {
+    "city": "Yalta"
+  },
+  {
+    "city": "Yalta"
+  },
+  {
+    "city": "Yampil"
+  },
+  {
+    "city": "Yany Kapu"
+  },
+  {
+    "city": "Yaremche"
+  },
+  {
+    "city": "Yasinia"
+  },
+  {
+    "city": "Yasnohirka"
+  },
+  {
+    "city": "Yasynuvata"
+  },
+  {
+    "city": "Yavoriv"
+  },
+  {
+    "city": "Yedy-Kuiu"
+  },
+  {
+    "city": "Yelanets"
+  },
+  {
+    "city": "Yelizavetivka"
+  },
+  {
+    "city": "Yemilchyne"
+  },
+  {
+    "city": "Yenakiieve"
+  },
+  {
+    "city": "Yerky"
+  },
+  {
+    "city": "Yevhenivka"
+  },
+  {
+    "city": "Yevpatoriia"
+  },
+  {
+    "city": "Yezupil"
+  },
+  {
+    "city": "Yuryivka"
+  },
+  {
+    "city": "Yuvileine"
+  },
+  {
+    "city": "Yuzhne"
+  },
+  {
+    "city": "Zabolotiv"
+  },
+  {
+    "city": "Zabolottya"
+  },
+  {
+    "city": "Zabuzhzhia"
+  },
+  {
+    "city": "Zahirne"
+  },
+  {
+    "city": "Zalishchyky"
+  },
+  {
+    "city": "Zaliznychne"
+  },
+  {
+    "city": "Zaliznyi Port"
+  },
+  {
+    "city": "Zalukva"
+  },
+  {
+    "city": "Zaluzhye"
+  },
+  {
+    "city": "Zamahora"
+  },
+  {
+    "city": "Zaozerne"
+  },
+  {
+    "city": "Zaperedillia"
+  },
+  {
+    "city": "Zaporizhzhia"
+  },
+  {
+    "city": "Zarichany"
+  },
+  {
+    "city": "Zarichchia"
+  },
+  {
+    "city": "Zarichne"
+  },
+  {
+    "city": "Zarih"
+  },
+  {
+    "city": "Zasluchne"
+  },
+  {
+    "city": "Zastavna"
+  },
+  {
+    "city": "Zatyshshia"
+  },
+  {
+    "city": "Zavadiv"
+  },
+  {
+    "city": "Zavadov"
+  },
+  {
+    "city": "Zavodske"
+  },
+  {
+    "city": "Zavorychi"
+  },
+  {
+    "city": "Zaytseve"
+  },
+  {
+    "city": "Zboriv"
+  },
+  {
+    "city": "Zdvyzhivka"
+  },
+  {
+    "city": "Zelena"
+  },
+  {
+    "city": "Zelenkiv"
+  },
+  {
+    "city": "Zelenky"
+  },
+  {
+    "city": "Zelenodolsk"
+  },
+  {
+    "city": "Zelenohirske"
+  },
+  {
+    "city": "Zhabotyn"
+  },
+  {
+    "city": "Zhashkiv"
+  },
+  {
+    "city": "Zhdanivka"
+  },
+  {
+    "city": "Zhdeniievo"
+  },
+  {
+    "city": "Zhmerynka"
+  },
+  {
+    "city": "Zhniatyno"
+  },
+  {
+    "city": "Zhovkva"
+  },
+  {
+    "city": "Zhovte"
+  },
+  {
+    "city": "Zhovti Vody"
+  },
+  {
+    "city": "Zhukotyn"
+  },
+  {
+    "city": "Zhuky"
+  },
+  {
+    "city": "Zhuravlivka"
+  },
+  {
+    "city": "Zhuravne"
+  },
+  {
+    "city": "Zhvyrka"
+  },
+  {
+    "city": "Zhydachiv"
+  },
+  {
+    "city": "Zhytomyr"
+  },
+  {
+    "city": "Zinkiv"
+  },
+  {
+    "city": "Zinkiv"
+  },
+  {
+    "city": "Zmiiv"
+  },
+  {
+    "city": "Znamenivka"
+  },
+  {
+    "city": "Znamianka"
+  },
+  {
+    "city": "Zolochiv"
+  },
+  {
+    "city": "Zolote"
+  },
+  {
+    "city": "Zolotonosha"
+  },
+  {
+    "city": "Zoria"
+  },
+  {
+    "city": "Zoryane"
+  },
+  {
+    "city": "Zvenyhorod"
+  },
+  {
+    "city": "Zvenyhorodka"
+  },
+  {
+    "city": "Zhurivka"
+  }
+]
